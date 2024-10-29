@@ -1,0 +1,5 @@
+1,Mariano,490000
+2,Alejandro,3900000
+3,Cristian,550000
+4,Celeste,470000
+5,Esther,650000
